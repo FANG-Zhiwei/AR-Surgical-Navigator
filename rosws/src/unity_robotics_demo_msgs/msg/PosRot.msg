@@ -1,0 +1,4 @@
+float32 up_slider_pos
+float32 up_slider_rot
+float32 bott_slider_pos
+float32 bott_slider_rot
